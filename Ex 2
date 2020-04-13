@@ -1,7 +1,0 @@
-<script>
-    var nome, ano, idade;
-  nome=prompt(“Digite o seu nome”);
-  ano=parseInt(prompt(“Digite o seu ano de nascimento”));
-  idade=2020-ano;
-  alert(nome +"sua idade é" +idade);
-</script> 
