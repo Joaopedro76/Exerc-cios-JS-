@@ -1,0 +1,6 @@
+<script>
+  var r, quadrado;
+   r=parseFloat(prompt(“Digite o valor do quadrado”));
+   quadrado= r*r;
+  alert(“O quadrado é: ”+ quadrado);
+</script>
