@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "funcionario", "funcionario\funcionario.csproj", "{3BA9CCD2-948A-4DE3-A322-DD1257C26DBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BA9CCD2-948A-4DE3-A322-DD1257C26DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA9CCD2-948A-4DE3-A322-DD1257C26DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA9CCD2-948A-4DE3-A322-DD1257C26DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA9CCD2-948A-4DE3-A322-DD1257C26DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD6C7246-EF1C-4AAE-A57A-320D22297462}
+	EndGlobalSection
+EndGlobal
