@@ -4,4 +4,4 @@
   valor2=parseInt(prompt(“Digite o valor2”));
  media=valor1+valor2;
 alert (“A media é: ”+ media);
-</script>
+</script> 
